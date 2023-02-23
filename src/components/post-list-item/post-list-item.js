@@ -7,11 +7,11 @@ const PostListItem = () => {
                 Hello World!
             </span>
             <div className="d-flex justify-content-center align-items-center">
-                <button className="btn-star btn-sm">
-                    <i className="fa fa-star"></i>
+                <button type="button" className="btn-star btn-sm">
+                    <i class="fa-solid fa-star"></i>
                 </button>
-                <button className="btn-trash btn-sm">
-                    <i className="fa fa-trash-o"></i>
+                <button type="button" className="btn-trash btn-sm">
+                    <i class="fa-solid fa-trash"></i>
                 </button>
                 <i className="fa fa-heart"></i>
             </div>
