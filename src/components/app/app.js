@@ -12,6 +12,7 @@ const App = () => {
         {label: 'Learn React', important: true, id: 'dskjfa'},
         {label: 'Go to the gym', important: false, id: 'gffd'},
         {label: 'Wash the dishes', important: false, id: 'fdsaf' }
+
     ]
     return (
         <div className="app">
